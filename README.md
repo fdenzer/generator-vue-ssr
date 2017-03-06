@@ -25,5 +25,7 @@ Usage
 # Make sure yo is installed
 $ npm i yo -g
 
-$ yo vue-ssr my-project
+# Initialize my project
+$ cd my-project
+$ yo vue-ssr
 ```
